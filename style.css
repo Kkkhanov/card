@@ -1,0 +1,75 @@
+form {
+    width: 700px;
+    margin: 200px auto;
+    position: relative;
+    font-family: sans-serif;
+}
+
+section {
+    width: 370px;
+    margin-left: 20px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+fieldset {
+    background-color: rgba(0, 0, 0, 0.90);
+    border-radius: 15px;
+}
+
+h2 {
+    background-color: #ef1bcf;
+    width: 500px;
+    padding: 7px 7px 7px 60px;
+    position: absolute;
+    top: 5px;
+    left: -30px;
+    color: white;
+}
+
+input {
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    background-color: rgba(95, 158, 160, 0.11);
+    height: 30px;
+    border-color: #ef1bcf;
+    color: white;
+}
+
+span {
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    color: aliceblue;
+}
+
+div {
+    display: block;
+
+}
+
+#pass {
+    width: 80px;
+    text-align: center;
+    margin-left: 60px;
+}
+
+#date {
+    margin-left: 30px;
+    text-align: center;
+}
+
+.w90 {
+    width: 100%;
+}
+.ib{
+display: flex;
+    justify-content: space-between;
+}
+#cvv{
+    margin-right: 60px;
+}
+#text-center{
+    text-align: center;
+}
